@@ -43,9 +43,6 @@
 			<img src="/.github/icons/nodejs.svg" width="60"/>
 		</td>
 		<td >
-			<img src="/.github/icons/nextjs.svg" width="60"/>
-		</td>
-		<td >
 			<img src="/.github/icons/expressjs.png" width="60"/>
 		</td>
     <td >
@@ -56,9 +53,6 @@
 		</td>
 		<td >
 			<img src="/.github/icons/socketio.svg" width="60"/>
-		</td>
-		<td >
-			<img src="/.github/icons/s3.svg" width="60"/>
 		</td>
     <td >
 			<img src="/.github/icons/redux.svg" width="60"/>
@@ -80,12 +74,10 @@
     	<td>JavaScript</td>
     	<td>React</td>
     	<td>Node.js</td>
-    	<td>Next.js</td>
     	<td>Express.js</td>
       <td>MongoDB</td>
 		<td>Material-UI</td>
 		<td>Socket.IO</td>
-		<td>AWS S3</td>
     <td>Redux</td>
 		<td>Bootstrap</td>
 		<td>Bash</td>
