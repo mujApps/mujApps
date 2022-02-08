@@ -5,10 +5,19 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mujaffar Husain</h1>
 <h3 align="center">Web Developer | Software Engineer</h3>
 <p align="center">
-<a href="www.linkedin.com/in/mujhusain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mujApps" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Mujaffar-Husain" height="30" width="40" /></a>
+
+<p align="center">
+<a href="www.linkedin.com/in/mujhusain" target="blank"><img src="/.github/icons/linkedin.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:xbhavyatomar@gmail.com"><img src="/.github/icons/email.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/bhavyacodes"><img src="/.github/icons/twitter.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://discord.gg/gvxq9yy33P"><img src="/.github/icons/discord.svg" width="54"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
+
+
 <a href="https://www.hackerrank.com/Mujaffar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Mujaffar-Husain" height="30" width="40" /></a>
-<a href="https://leetcode.com/mujApps/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Mujaffar-Husain" height="30" width="40" /></a>
+
 <a href="https://auth.geeksforgeeks.org/user/mujaffarhssn/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="Mujaffar Husain" height="30" width="40" /></a>
  <a href = "mailto: mujaffarhssn@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
@@ -30,16 +39,96 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mujhusain&theme=algolia" alt="candida18"  /></p>
 
-### 🛠 &nbsp;Tech Stack  
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+## Technologies I have used
+
+<table >
+	<tr align="center">
+		<td>
+			<img src="/.github/icons/typescript.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/react.png" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/nodejs.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/nextjs.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/expressjs.png" width="60"/>
+		</td>
+		<td>
+			<img src="/.github/icons/graphql.svg" width="60"/>
+		</td>
+    </tr>
+    <tr align="center">
+    	<td>TypeScript</td>
+    	<td>React</td>
+    	<td>Node.js</td>
+    	<td>Next.js</td>
+    	<td>Express.js</td>
+			<td>GraphQL</td>
+    </tr>
+
+</table>
+<table >
+	<tr align="center">
+		<td >
+			<img src="/.github/icons/nestjs.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/postgresql.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/mongodb.svg" width="60"/>
+		</td>
+		<td>
+			<img src="/.github/icons/materialui.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/socketio.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/s3.svg" width="60"/>
+		</td>
+	</tr>
+	<tr align="center">
+		<td>Nest.js</td>
+		<td>postgreSQL</td>
+		<td>MongoDB</td>
+		<td>Material-UI</td>
+		<td>Socket.IO</td>
+		<td>AWS S3</td>
+	</tr>
+</table>
+<table >
+	<tr align="center">
+		<td >
+			<img src="/.github/icons/apollo.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/redux.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/bootstrap.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/framer.png" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/vercel.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/bash.svg" width="60"/>
+		</td>
+	</tr>
+	<tr align="center">
+		<td>Apollo client/server</td>
+		<td>Redux</td>
+		<td>Bootstrap</td>
+		<td>Framer Motion</td>
+		<td>Vercel</td>
+		<td>Bash</td>
+	</tr>
+</table>
