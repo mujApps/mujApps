@@ -6,10 +6,10 @@
 <h3 align="center">Web Developer | Software Engineer</h3>
 
 <p align="center">
-<a href="www.linkedin.com/in/mujhusain" target="blank"><img src="/.github/icons/linkedin.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:mujaffarhssn@gmail.com" target="blank"><img src="/.github/icons/email.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="www.linkedin.com/in/mujhusain" target="_blank"><img src="/.github/icons/linkedin.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:mujaffarhssn@gmail.com" target="_blank"><img src="/.github/icons/email.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://auth.geeksforgeeks.org/user/mujaffarhssn/profile" target="blank"><img src="/.github/icons/GeeksforGeeks.png" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/Mujaffar" target="blank"><img src="/.github/icons/hackerrank.svg" width="54"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/Mujaffar" target="_blank"><img src="/.github/icons/hackerrank.svg" width="54"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 </p>
