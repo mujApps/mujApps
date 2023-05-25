@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" width="30px">, I'm Mujaffar Husain</h1>
-<h3 align="center">Web Developer | Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
 <a href="www.linkedin.com/in/mujhusain" target="_blank"><img src="/.github/icons/linkedin.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
